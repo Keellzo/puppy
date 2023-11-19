@@ -1,3 +1,3 @@
-module github.com/kelly96E/puppy/blob/master/puppy.go
+module github.com/kelly96E/puppy
 
 go 1.21
